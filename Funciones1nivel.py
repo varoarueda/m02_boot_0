@@ -18,4 +18,5 @@ def sumaTodos(limitTo, f):
 if __name__ == "__main__":  # Es para que no ejecute las 2 ultimas lineas cuando importo sumaTodos desde otro archivo
     print(sumaTodos(100, normal))
     print(sumaTodos(3, cuadrado))
+    
         
